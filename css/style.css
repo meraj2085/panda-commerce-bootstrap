@@ -4,6 +4,10 @@
 .catagories img{
      width: 100px;
 }
+.price{
+     color: #ff136f;
+     margin-bottom: 20px;
+}
 .panda-btn-buy{
      background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
      color: white;
